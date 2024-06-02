@@ -7,11 +7,11 @@ The GAN model consists of two neural networks: a generator and a discriminator, 
 
 ## Technical Details
 - **Dataset**: MNIST
-- **Framework**: TensorFlow/Keras (or PyTorch)
-- **Epochs**: 200
+- **Framework**: TensorFlow/Keras
+- **Epochs**: 25000
 
 ## Results
-The model successfully learned to generate realistic digits after training for 200 epochs.
+The model successfully learned to generate realistic digits after training for 25000 epochs.
 
 ## Video
 Watch the progression of learning over epochs in the video.
